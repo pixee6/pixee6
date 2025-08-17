@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Sania  
 
-<!--
-**pixee6/pixee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Junior Software Developer** based in Aarhus, Denmark.  
+Learning **Python** at ReDI School and practicing algorithms through [LeetCode 75](https://github.com/pixee6/leetcode75).  
+Built a [Budget Planning System](https://github.com/pixee6/budget-planning-system) in Python to manage income and expenses.  
 
-Here are some ideas to get you started:
+Currently exploring **C# and .NET** to expand my backend development skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+Python · Git · GitHub · CSV/JSON · C# (learning) · Problem-Solving  
+
+📩 Email: sania.aslam2514@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sania-aslam-4a5628218)
+
