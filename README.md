@@ -9,7 +9,7 @@ Currently exploring **C# and .NET** to expand my backend development skills.
 ---
 
 ## 🛠 Skills
-Python · Git · GitHub · CSV/JSON · C# (learning) · Problem-Solving  
+Python · CSV/JSON · C# (learning) · Problem-Solving  
 
 📩 Email: sania.aslam2514@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sania-aslam-4a5628218)
 
