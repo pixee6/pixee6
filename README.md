@@ -15,7 +15,7 @@
 
 ## 🛠 Skills
 **Languages & Tools:**  
-Python · HTML · CSS · JSON/CSV · Problem Solving · Git/GitHub  
+Python · HTML · CSS · JSON/CSV · Problem Solving 
 
 ---
 
