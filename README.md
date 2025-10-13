@@ -36,6 +36,6 @@ Python · HTML · CSS · JSON/CSV · Problem Solving
 
 ---
 
-✨ *“Code, learn, grow — one step at a time.”*
+✨ *“Code, learn, grow one step at a time.”*
 
 
