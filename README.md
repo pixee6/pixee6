@@ -29,6 +29,9 @@ Python · HTML · CSS · JSON/CSV · Problem Solving
 - **[freeCodeCamp Projects](https://github.com/pixee6/freecodecamp-responsive-webdesign)**  
   HTML and CSS projects from the Responsive Web Design certification path.
 
+- **[HYF-practice](https://github.com/pixee6/HYF-practice)**
+    HackYourFuture pre-course practice projects and assignments.
+
 ---
 
 📫 **Email:** sania.aslam2514@gmail.com  
