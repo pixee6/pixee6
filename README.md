@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sania  
 
 🌍 **Aspiring Junior Software Developer** based in Aarhus, Denmark.  
-🎓 Recently completed the **Python course at ReDI School** and currently studying **Web Development at HackYourFuture**.  
+🎓 Recently completed the **Python course at ReDI School** and currently studying at HackYourFuture**.  
 💻 Passionate about building practical projects and improving my problem-solving skills through **LeetCode** and **freeCodeCamp**.
 
 ---
