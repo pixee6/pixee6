@@ -13,7 +13,7 @@
 I’m a junior software developer with a background in **Computer Science**, currently training at  
 **HackYourFuture Denmark** and **ReDI School of Digital Integration**.
 
-I enjoy building small, meaningful applications, learning how systems work end-to-end, and improving my skills step by step — with care for both **logic** and **presentation**.
+I enjoy building small, meaningful applications, learning how systems work end-to-end, and improving my skills step by step with care for both **logic** and **presentation**.
 
 ---
 
