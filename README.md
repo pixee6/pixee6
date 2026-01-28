@@ -1,44 +1,67 @@
-# 👋 Hi, I'm Sania  
+<h1 align="center">Hi, I’m Sania 👋</h1>
 
-🌍 **Aspiring Junior Software Developer** based in Aarhus, Denmark.  
-🎓 Recently completed the **Python course at ReDI School** and currently studying at HackYourFuture**.  
-💻 Passionate about building practical projects and improving my problem-solving skills through **LeetCode** and **freeCodeCamp**.
+<p align="center">
+Junior Software Developer · Computer Science Graduate · Aarhus, Denmark
+</p>
 
----
-
-## 🚀 What I'm Doing Now
-- 🐍 Strengthening my **Python** foundations with small projects and algorithm challenges.  
-- 🌐 Learning **HTML, CSS, and JavaScript** through the **freeCodeCamp Responsive Web Design** track.  
-- 💬 Expanding my technical skills and teamwork experience at **HackYourFuture Denmark**.  
+<p align="center">
+<a href="https://www.linkedin.com/in/sania-aslam-4a5628218/">LinkedIn</a> ·
+<a href="https://github.com/pixee6">GitHub</a>
+</p>
 
 ---
 
-## 🛠 Skills
-**Languages & Tools:**   
-Python · HTML · CSS · JSON/CSV · Problem Solving 
+## About Me
+
+I’m a junior software developer with a Bachelor’s degree in Computer Science, currently strengthening my practical skills through **HackYourFuture Denmark** and **ReDI School of Digital Integration**.
+
+I focus on writing clear, understandable code and enjoy learning how real applications are built — from logic and data handling to user-facing features.
 
 ---
 
-## 🧩 Projects
-- **[Budget Planning System](https://github.com/pixee6/budget-planning-system)**  
-  Python project built at ReDI School — manages income and expenses using CSV files.
+## What I’m Working On
 
-- **[LeetCode 75 Solutions](https://github.com/pixee6/leetcode-75)**  
-  My Python solutions for algorithm and data structure challenges.
-
-- **[freeCodeCamp Projects](https://github.com/pixee6/freecodecamp-responsive-webdesign)**  
-  HTML and CSS projects from the Responsive Web Design certification path.
-
-- **[HYF-practice](https://github.com/pixee6/HYF-practice)**
-    HackYourFuture pre-course practice projects and assignments.
+- Building small, practical projects in **Python**
+- Practising problem solving with **LeetCode**
+- Learning frontend fundamentals with **HTML, CSS, and JavaScript**
+- Developing teamwork and real-world coding habits at **HackYourFuture**
 
 ---
 
-📫 **Email:** sania.aslam2514@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/saniaaslam](https://linkedin.com/in/saniaaslam)
+## Skills
+
+**Languages & Tools**
+
+- Python
+- HTML · CSS · JavaScript (basic)
+- Git · GitHub
+- CSV / JSON data handling
+- VS Code
 
 ---
 
-✨ *“Code, learn, grow one step at a time.”*
+## Projects
 
+### 🧾 Budget Planning System
+Python project built at ReDI School.  
+Manages income and expenses using CSV files, with basic validation and structured logic.
 
+### 🧠 LeetCode 75
+Python solutions for algorithm and data structure problems, with notes and complexity analysis.
+
+### 🌐 freeCodeCamp Projects
+Responsive Web Design projects built with HTML and CSS.
+
+### 🎓 HackYourFuture Assignments
+Coursework and assignments covering frontend, backend, and software fundamentals.
+
+---
+
+## Contact
+
+- 📧 Email: **sania.aslam2514@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/sania-aslam-4a5628218/
+
+---
+
+<p align="center"><em>Learning consistently. Building step by step.</em></p>
