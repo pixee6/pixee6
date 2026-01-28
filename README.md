@@ -1,67 +1,79 @@
-<h1 align="center">Hi, I’m Sania 👋</h1>
+<div align="center">
 
-<p align="center">
-Junior Software Developer · Computer Science Graduate · Aarhus, Denmark
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZrZ21nNnY2NGU3YTNjZ2V3cTN4Z3l1Z2Z3eGZ1ZDJwY3B4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
+
+<h1>Hi, I’m Sania 👋</h1>
+
+<p>
+Junior Software Developer · Computer Science Graduate<br/>
+Based in Aarhus, Denmark 🇩🇰
 </p>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/sania-aslam-4a5628218/">LinkedIn</a> ·
 <a href="https://github.com/pixee6">GitHub</a>
 </p>
 
----
-
-## About Me
-
-I’m a junior software developer with a Bachelor’s degree in Computer Science, currently strengthening my practical skills through **HackYourFuture Denmark** and **ReDI School of Digital Integration**.
-
-I focus on writing clear, understandable code and enjoy learning how real applications are built — from logic and data handling to user-facing features.
+</div>
 
 ---
 
-## What I’m Working On
+## 👩‍💻 About Me
 
-- Building small, practical projects in **Python**
-- Practising problem solving with **LeetCode**
-- Learning frontend fundamentals with **HTML, CSS, and JavaScript**
-- Developing teamwork and real-world coding habits at **HackYourFuture**
+I’m a junior software developer with a background in **Computer Science**, currently training at **HackYourFuture Denmark** and **ReDI School of Digital Integration**.
 
----
-
-## Skills
-
-**Languages & Tools**
-
-- Python
-- HTML · CSS · JavaScript (basic)
-- Git · GitHub
-- CSV / JSON data handling
-- VS Code
+I enjoy turning ideas into **working applications**, learning how systems connect end to end, and improving both **logic and user experience** step by step.
 
 ---
 
-## Projects
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+
+</div>
+
+---
+
+## 🧩 What I’m Working On
+
+- 🐍 Python projects focusing on clean logic and data handling  
+- 🧠 Algorithm practice with **LeetCode 75**  
+- 🌐 Frontend fundamentals using **HTML, CSS, JavaScript**  
+- 🤝 Team-based learning and real-world workflows at **HackYourFuture**
+
+---
+
+## 📌 Featured Projects
 
 ### 🧾 Budget Planning System
-Python project built at ReDI School.  
-Manages income and expenses using CSV files, with basic validation and structured logic.
+Python application built at ReDI School.  
+Handles income and expenses using CSV files with basic validation and structured program flow.
 
 ### 🧠 LeetCode 75
-Python solutions for algorithm and data structure problems, with notes and complexity analysis.
+Python solutions to algorithm and data structure problems, including notes and complexity analysis.
 
 ### 🌐 freeCodeCamp Projects
-Responsive Web Design projects built with HTML and CSS.
+Responsive web design projects built with HTML and CSS.
 
 ### 🎓 HackYourFuture Assignments
-Coursework and assignments covering frontend, backend, and software fundamentals.
+Coursework covering frontend, backend, and software development fundamentals.
 
 ---
 
-## Contact
+## 📫 Let’s Connect
 
 - 📧 Email: **sania.aslam2514@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/sania-aslam-4a5628218/
 
 ---
 
-<p align="center"><em>Learning consistently. Building step by step.</em></p>
+<div align="center">
+✨ <em>Building. Learning. Improving — one step at a time.</em> ✨
+</div>
