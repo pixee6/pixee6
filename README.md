@@ -10,10 +10,10 @@
 
 ### 🌸 About Me
 
-I’m a junior software developer with a background in **Computer Science**, currently training at  
-**HackYourFuture Denmark** and **ReDI School of Digital Integration**.
+I’m a **junior software developer** with a background in **Computer Science**, currently training at **HackYourFuture Denmark** and **ReDI School of Digital Integration**. I enjoy building **small, complete applications** and taking the time to understand how they work from start to finish.
 
-I enjoy building small, meaningful applications, learning how systems work end-to-end, and improving my skills step by step with care for both **logic** and **presentation**.
+I care about **clarity and structure**, and I like improving my code step by step thinking things through, fixing what breaks, and learning properly along the way.
+
 
 ---
 
