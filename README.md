@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZrZ21nNnY2NGU3YTNjZ2V3cTN4Z3l1Z2Z3eGZ1ZDJwY3B4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
-
-<h1>Hi, I’m Sania 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Sania%20Aslam&fontSize=48&fontAlignY=40&desc=Junior%20Software%20Developer%20%7C%20Aarhus%2C%20Denmark&descAlignY=65&animation=fadeIn" />
+</p>
 
 <p>
 Junior Software Developer · Computer Science Graduate<br/>
